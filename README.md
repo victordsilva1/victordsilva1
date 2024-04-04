@@ -1,4 +1,4 @@
-## Eu sou o Victor,vlw por me visitar! 
+## Eu sou o Victor, obrigado por me visitar! 
 
 <div style="display: inline_block"><br>
   
