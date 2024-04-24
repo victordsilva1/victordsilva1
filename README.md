@@ -18,6 +18,8 @@
   
 </div>
 
-
+<p>
+  O cara que se chama mehlor não aprende com seus erros, o inteligente aprende com seus próprios erros, e o sábio aprende com o erro dos outros.   
+</p>
             
           
