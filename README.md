@@ -19,7 +19,7 @@
 </div>
 
 <p>
-  O cara que se acha melhor, não aprende com seus erros, o inteligente aprende; Mas o sábio aprende com o erro dos outros.   
+  O cara que se acha melhor, não aprende com seus erros; O inteligente aprende; Mas o sábio aprende com o erro dos outros.   
 </p>
             
           
