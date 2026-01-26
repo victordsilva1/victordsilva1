@@ -1,7 +1,9 @@
 # 👩🏻‍💻 Victor Silva
 **`Desenvolvedora FullStack`**
 
-Me chamo Victor da Silva, tenho 20 anos e sou de Minas Gerais-BH.Concluí o ensino médio no Sesi.Atualmente,estou cursando Análise e Desenvolvimento de Sistemas na PUCMG. Sou apaixonado por tecnologia e em aprender focado em automação, interfaces modernas soluções práticas com uso de AI e no aprendizado de inglês.
+Me chamo Victor da Silva, tenho 20 anos e sou de Belo Horizonte – MG.
+Concluí o Ensino Médio no SESI e atualmente curso Análise e Desenvolvimento de Sistemas na PUC Minas.
+Sou apaixonado por tecnologia, com foco em automação, interfaces modernas e soluções práticas, utilizando IA. Também estou em constante aprendizado da língua inglesa.
   
 
 ### 🤖 Linguagens e Tecnologias
